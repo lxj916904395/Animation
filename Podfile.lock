@@ -1,0 +1,26 @@
+PODS:
+  - JKDataHelper (0.1.8)
+  - JKRouter (0.2.6.7):
+    - JKDataHelper
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - JKRouter
+  - YYKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JKDataHelper
+    - JKRouter
+    - YYKit
+
+SPEC CHECKSUMS:
+  JKDataHelper: a6375416ddd0a47a4eb9c809131f195f19824b70
+  JKRouter: 4f8708b2d9f2158567e711c33c129c0bab7437c5
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 5fac03bed621b846b6fe417b610bdd6b225daa59
+
+COCOAPODS: 1.5.3
